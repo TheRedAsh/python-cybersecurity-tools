@@ -26,3 +26,6 @@ git clone git@github.com:TheRedAsh/python-cybersecurity-tools.git
 
 # 3. Repository ke folder me dakhil hon
 cd python-cybersecurity-tools
+
+#4. repository ko run krin
+python3 cyber_osint.py
