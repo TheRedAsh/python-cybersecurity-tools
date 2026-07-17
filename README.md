@@ -21,7 +21,8 @@ Open your terminal and run the following commands to clone and set up the worksp
 sudo apt update && sudo apt install git python3 -y
 
 # 2. Repository ko clone karein
-git clone [https://github.com/TheRedAsh/python-cybersecurity-tools.git](https://github.com/TheRedAsh/python-cybersecurity-tools.git)
+
+git clone git@github.com:TheRedAsh/python-cybersecurity-tools.git
 
 # 3. Repository ke folder me dakhil hon
 cd python-cybersecurity-tools
